@@ -31,11 +31,11 @@ Bunları düzenlediğimde de Son ve güncel sürüm olarak github repomuzda payl
 
 1225 Satır ek css ve 3116 satır php düzenlemesi ile Açık kaynak Wovie yazılımı FilmseverTÜRK tasarımına kavuşarak Sosyal Şeyler üzerinden Türk kullanıcılara yine açık kaynak olarak paylaşılmıştır.
 
-Wovie - FilmseverTÜRK düzenlemesinde emeği geçen ve size ulaşmasını sağlayan, Tarkan "ULUTÜRK" Özel ile Osman Gören beye sonsuz teşekkürler.
+Wovie - FilmseverTÜRK düzenlemesinde emeği geçen ve size ulaşmasını sağlayan, Tarkan "ULUTÜRK" Özel ile Osman Özer beye sonsuz teşekkürler.
 
-Sosyal Şeyler ©2025 | Türk yazılımcıların yanında.
+Sosyal Şeyler ©2025 | Türk yazılımcıların yanında. https://sosyalseyler.com/496-wovie-filmseverturk-tasarimi-acik-kaynak-ve-ucrets
 
-Sende katkı sağlamak istiyorsan yaptığın düzenlemeleri bu konu altında yayınla.
+Sende katkı sağlamak istiyorsan yaptığın düzenlemeleri üstte verdiğim SosyalŞeyler sayfasındaki konunun altında yayınla.
 
 App/themes dosya yolundan tasarımı kendi istediğine göre düzenleyebilirsin.
 
