@@ -7,9 +7,9 @@ Wovie'nin varsayılan tasarımına https://medyaparki.com üzerinden görebilirs
 
 https://i.hizliresim.com/dzbktdp.png  --  https://i.hizliresim.com/mni5mbk.png
 
-# Şu an için geliştirilmesi gereken 2 nokta var.
+# Şu an için geliştirilmesi gereken 1 nokta var.
 
-İlki Bağlantı yapısını (router) Türkçeleştirmek;
+Bağlantı yapısını (router) Türkçeleştirmek;
 
 https://filmseverturk.com/serie/maskeli-ogretmen-5
 
@@ -19,13 +19,7 @@ Serie yerine
 
 https://filmseverturk.com/dizi-izle/5-maskeli-ogretmen-izle (Buradaki "5" yazan kısım içerik id'si, o başa alınıp, her içeriğin sonuna -izle gelecek demek istiyorum.)
 
-şeklinde bir yapıya kavuşturma kısmı ve
-
-İkinci olarak "bölümleri takip etmek için üye ol" alanı zaten üye olan ve giriş yapmış kişilere de gözüküyor,
-
-![5sczol5](https://github.com/user-attachments/assets/ec350eae-8a43-43e4-9eb0-a5855d80a92f)
-
-o kısmı php if else (giriş yapıldıysa gösterme, giriş yapılmadıysa göster) şeklinde düzenleme işi kaldı.
+şeklinde bir yapıya kavuşturma işi kaldı.
 
 Bunları düzenlediğimde de Son ve güncel sürüm olarak github repomuzda paylaşacağım. SosyalŞeyler sayfasındaki konumuzu ve Github repomuzu takip etmeyi unutmayın.
 
