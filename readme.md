@@ -29,7 +29,7 @@ https://github.com/TengriciTURK/FilmseverTURK/releases
 
 Yukarıdaki bağlantıdan istediğiniz sürümü indirebilirsiniz.
 
-Sürüm açıklamasında, her sürüm yapılan veya yapılacak iyileştirmeler yer alır.
+Sürüm açıklamasında, her sürüm için yapılan veya yapılacak iyileştirmeler yer alır.
 
 Github'ı ilk kez kullanacaklar için "releases" kısmına girdikten sonra indirmek istediğiniz sürümün "Assets" yazan kısma tıklayıp en güncel "Surum" yazan zip dosyasını indirin. Source kısımlarını daha bende çözemedim, güncel sürümleri zip şeklinde paylaşıyorum.
 
