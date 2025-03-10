@@ -23,6 +23,20 @@ https://filmseverturk.com/dizi-izle/5-maskeli-ogretmen-izle (Buradaki "5" yazan 
 
 Bunları düzenlediğimde de Son ve güncel sürüm olarak github repomuzda paylaşacağım. SosyalŞeyler sayfasındaki konumuzu ve Github repomuzu takip etmeyi unutmayın.
 
+# Sürümleri indirmek için:
+
+https://github.com/TengriciTURK/FilmseverTURK/releases
+
+Yukarıdaki bağlantıdan istediğiniz sürümü indirebilirsiniz.
+
+Sürüm açıklamasında, her sürüm yapılan veya yapılacak iyileştirmeler yer alır.
+
+Github'ı ilk kez kullanacaklar için "releases" kısmına girdikten sonra indirmek istediğiniz sürümün "Assets" yazan kısma tıklayıp en güncel "Surum" yazan zip dosyasını indirin. Source kısımlarını daha bende çözemedim, güncel sürümleri zip şeklinde paylaşıyorum.
+
+![FilmseverTÜRK sürümleri nasıl indirilir](https://github.com/user-attachments/assets/1a58f8cc-0e63-4789-b232-37520f79554b)
+
+
+
 1225 Satır ek css ve 3116 satır php düzenlemesi ile Açık kaynak Wovie yazılımı FilmseverTÜRK tasarımına kavuşarak Sosyal Şeyler üzerinden Türk kullanıcılara yine açık kaynak olarak paylaşılmıştır.
 
 Sosyal Şeyler ©2025 | Türk yazılımcıların yanında. https://sosyalseyler.com/496-wovie-filmseverturk-tasarimi-acik-kaynak-ve-ucrets
