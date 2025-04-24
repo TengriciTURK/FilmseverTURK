@@ -1,27 +1,11 @@
-# FilmseverTURK
-Ön izlemek için: https://filmseverturk.com
+![Yeni Eklenene Filmler](https://github.com/user-attachments/assets/284c5dc8-2713-42ae-9934-a47136daf73c)
+![Diziler](https://github.com/user-attachments/assets/9ebdac3a-8305-4364-84af-03db63bd68c3)
 
 # Wovie - FilmseverTÜRK Tasarımı Açık kaynak ve Ücretsiz indir
 
-Wovie'nin varsayılan tasarımına https://medyaparki.com üzerinden görebilirsiniz. Ben Sinefy ve Yabancidizi.tv gibi bu dizi/film sektöründe sevilen tasarımların çok tutan özelliklerini alıp, Wovie tasarımına yorumlayarak eklemeler yaptım. Son şeklini FilmseverTÜRK sayfamız olan https://filmseverturk.com bağlantısından görebilirsiniz.
+Wovie'nin varsayılan tasarımını ben Sinefy ve Yabancidizi.tv gibi bu dizi/film sektöründe sevilen tasarımların çok tutan özelliklerini alıp, Wovie tasarımına yorumlayarak eklemeler yaptım. Son şeklini FilmseverTÜRK sayfamız olan https://filmseverturk.com bağlantısından görebilirsiniz.
 
 https://i.hizliresim.com/dzbktdp.png  --  https://i.hizliresim.com/mni5mbk.png
-
-# Şu an için geliştirilmesi gereken 1 nokta var.
-
-Bağlantı yapısını (router) Türkçeleştirmek;
-
-https://filmseverturk.com/serie/maskeli-ogretmen-5
-
-diyorya örneğin.
-
-Serie yerine
-
-https://filmseverturk.com/dizi-izle/5-maskeli-ogretmen-izle (Buradaki "5" yazan kısım içerik id'si, o başa alınıp, her içeriğin sonuna -izle gelecek demek istiyorum.)
-
-şeklinde bir yapıya kavuşturma işi kaldı.
-
-Bunları düzenlediğimde de Son ve güncel sürüm olarak github repomuzda paylaşacağım. SosyalŞeyler sayfasındaki konumuzu ve Github repomuzu takip etmeyi unutmayın.
 
 # Sürümleri indirmek için:
 
