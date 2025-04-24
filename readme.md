@@ -3,7 +3,7 @@
 
 # Wovie - FilmseverTÜRK Tasarımı Açık kaynak ve Ücretsiz
 
-Wovie'nin varsayılan tasarımını ben Sinefy ve Yabancidizi.tv gibi bu dizi/film sektöründe sevilen tasarımların çok tutan özelliklerini alıp, Wovie tasarımına yorumlayarak eklemeler yaptım. Son şeklini FilmseverTÜRK sayfamız olan https://filmseverturk.com bağlantısından görebilirsiniz.
+Wovie'nin varsayılan tasarımını ben Sinefy ve Yabancidizi.tv gibi bu dizi/film sektöründe sevilen tasarımların çok tutan özelliklerini alıp, Wovie tasarımına yorumlayarak eklemeler yaptım. Son şeklini ![FilmseverTÜRK](https://filmseverturk.com) sayfamızdan görebilirsiniz.
 
 https://i.hizliresim.com/dzbktdp.png  --  https://i.hizliresim.com/mni5mbk.png
 
