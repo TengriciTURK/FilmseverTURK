@@ -1,7 +1,7 @@
 ![Yeni Eklenene Filmler](https://github.com/user-attachments/assets/284c5dc8-2713-42ae-9934-a47136daf73c)
 ![Diziler](https://github.com/user-attachments/assets/9ebdac3a-8305-4364-84af-03db63bd68c3)
 
-# Wovie - FilmseverTÜRK Tasarımı Açık kaynak ve Ücretsiz indir
+# Wovie - FilmseverTÜRK Tasarımı Açık kaynak ve Ücretsiz
 
 Wovie'nin varsayılan tasarımını ben Sinefy ve Yabancidizi.tv gibi bu dizi/film sektöründe sevilen tasarımların çok tutan özelliklerini alıp, Wovie tasarımına yorumlayarak eklemeler yaptım. Son şeklini FilmseverTÜRK sayfamız olan https://filmseverturk.com bağlantısından görebilirsiniz.
 
